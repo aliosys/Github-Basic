@@ -4,3 +4,4 @@ Commit new file = save new file
 commit changes = save changes
 hashes = hash codes
 branches
+Tree => Represents the entire Repository
