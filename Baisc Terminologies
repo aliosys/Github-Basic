@@ -11,3 +11,10 @@ Branches
     |______Master Branches-> all the history of commit goes in here in the direct repository
     |______Slave Branches/Sub Branches --> we can create and work on different or sub directories of the main repositories while keeping our 
             master branches clean from new branches /version of the same project /or whatever experimental.
+
+
+Requests
+    |____ Pull Request --> Request to add the changes to the master branch
+    |____ Merge Request --> Adding changes in the master branche
+    
+Fork
